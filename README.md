@@ -1,2 +1,2 @@
-Chingu Solo Project
-Discription
+#Chingu Solo Project
+Discription!
